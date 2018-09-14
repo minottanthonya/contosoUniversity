@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contosoUniversity", "contosoUniversity\contosoUniversity.csproj", "{F7683185-F897-4F53-AFD2-73D8B10964BD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversityTM", "ContosoUniversityTM\ContosoUniversityTM.csproj", "{E70828D9-AF93-4CCF-A382-E3AEF4F1F5ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoUniversityTM", "ContosoUniversityTM\ContosoUniversityTM.csproj", "{E70828D9-AF93-4CCF-A382-E3AEF4F1F5ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,26 +17,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|ARM.ActiveCfg = Debug|ARM
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|ARM.Build.0 = Debug|ARM
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|ARM.Deploy.0 = Debug|ARM
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|x64.ActiveCfg = Debug|x64
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|x64.Build.0 = Debug|x64
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|x64.Deploy.0 = Debug|x64
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|x86.ActiveCfg = Debug|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|x86.Build.0 = Debug|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Debug|x86.Deploy.0 = Debug|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|Any CPU.ActiveCfg = Release|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|ARM.ActiveCfg = Release|ARM
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|ARM.Build.0 = Release|ARM
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|ARM.Deploy.0 = Release|ARM
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|x64.ActiveCfg = Release|x64
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|x64.Build.0 = Release|x64
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|x64.Deploy.0 = Release|x64
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|x86.ActiveCfg = Release|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|x86.Build.0 = Release|x86
-		{F7683185-F897-4F53-AFD2-73D8B10964BD}.Release|x86.Deploy.0 = Release|x86
 		{E70828D9-AF93-4CCF-A382-E3AEF4F1F5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E70828D9-AF93-4CCF-A382-E3AEF4F1F5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E70828D9-AF93-4CCF-A382-E3AEF4F1F5ED}.Debug|ARM.ActiveCfg = Debug|Any CPU
